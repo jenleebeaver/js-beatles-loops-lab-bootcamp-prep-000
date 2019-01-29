@@ -39,6 +39,6 @@ const facts = [
       x = array.push("I love the Beatles!");
       x++;
     }
-      while ( x < 9 );{}
+      while ( x < 15 );{}
       return array;
     }
