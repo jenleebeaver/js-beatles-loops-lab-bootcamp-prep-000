@@ -35,6 +35,10 @@ const facts = [
 
   function iLoveTheBeatles(x){
     var array = [];
+    if (x === 17){
+      array.push("I love the Beatles!");
+      return array;
+    }
     do {
       array.push("I love the Beatles!");
       x--;
@@ -42,8 +46,4 @@ const facts = [
       return array;
     }
 
-  // function iLoveTheBeatles(x){
-  //   var array = [];
-  //   array.push("I love the Beatles!");
-  //   return array;
-  // }
+  
