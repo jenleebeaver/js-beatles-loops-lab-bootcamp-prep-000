@@ -43,4 +43,8 @@ const facts = [
       return array;
     }
 
-  
+  function iLoveTheBeatles(x){
+    var array = [];
+    array.push("I love the Beatles");
+    return array;
+  }
