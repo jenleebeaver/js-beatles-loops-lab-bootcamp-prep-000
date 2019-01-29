@@ -39,7 +39,7 @@ const facts = [
       x = array.push("I love the Beatles!");
       x++;
     }
-      while ( x < 9 );{}
+      while ( x < 9 );
       return array;
     }
 
@@ -49,6 +49,6 @@ const facts = [
         array.push("I love the Beatles!");
         x++;
       }
-      while (x > 17); {}
+      while (x > 17); 
       return array;
     }
