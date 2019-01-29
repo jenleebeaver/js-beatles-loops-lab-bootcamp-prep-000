@@ -49,6 +49,6 @@ const facts = [
         array.push("I love the Beatles!");
         x++;
       }
-      while (x > 17); 
+      while (x > 17);
       return array;
     }
