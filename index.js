@@ -45,6 +45,6 @@ const facts = [
 
   function iLoveTheBeatles(x){
     var array = [];
-    array.push("I love the Beatles");
+    array.push("I love the Beatles!");
     return array;
   }
