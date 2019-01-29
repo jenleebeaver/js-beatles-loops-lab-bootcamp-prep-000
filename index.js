@@ -42,3 +42,13 @@ const facts = [
       while ( x < 9 );{}
       return array;
     }
+
+    function iLoveTheBeatles(x){
+      var array = [];
+      do{
+        array.push("I love the Beatles!");
+        x++;
+      }
+      while (x > 17); {}
+      return array;
+    }
