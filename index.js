@@ -39,7 +39,7 @@ const facts = [
       array.push("I love the Beatles!");
       x--;
     }
-      while ( x < 8 );
+      while ( x >= 0; );
       return array;
     }
 
