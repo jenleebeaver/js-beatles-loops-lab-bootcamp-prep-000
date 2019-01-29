@@ -45,5 +45,3 @@ const facts = [
     }while ( x >= 0 );
       return array;
     }
-
-  
