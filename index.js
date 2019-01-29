@@ -36,10 +36,10 @@ const facts = [
   function iLoveTheBeatles(x){
     var array = [];
     do {
-      x = array.push("I love the Beatles!");
-      x++;
+      array.push("I love the Beatles!");
+      x--;
     }
-      while ( x < 9 );
+      while ( x < 8 );
       return array;
     }
 
